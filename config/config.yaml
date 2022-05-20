@@ -1,0 +1,33 @@
+# FB likes Button widget configuration file
+# see the official FB page for all HTML attributes
+# https://developers.facebook.com/docs/plugins/like-button/#settings
+
+# (data-href) this is required
+url: ''
+
+# (data-layout)
+layout: standard
+
+# Button size (data-size)
+size: small
+
+# Widget Width (data-width)
+width:
+
+# (data-action)
+action: like
+
+# (data-ref)
+ref:
+
+# (data-share)
+share: false
+
+# (data-colorscheme)
+colorscheme: light
+
+# (data-lazy)
+lazy: false
+
+# (data-kid-directed-site)
+kid-directed-site: false

@@ -1,6 +1,6 @@
 {
   "name": "dmoed/fb-like-button",
-  "description": "Facebook Like button wrapper for Bolt 5",
+  "description": "Bolt Extension to add a Facebook Like Button",
   "type": "bolt-extension",
   "license": "MIT",
   "authors": [

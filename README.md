@@ -1,17 +1,30 @@
 #FB Like Button
 ==================
-This Bolt extension automatically adds the code snippets of the Facebook Like Button on your site.
+This Bolt extension automatically adds the code snippets of the Facebook Like Button plugins on your site.
 
-##Setup
+## Installation:
 
-* Snippets can be added to the frontend using the configuration file.
+```  
+composer require dmoed/fb-like-button
+```
 
-###Read more about [Facebook Like Button](https://developers.facebook.com/docs/plugins/like-button).
+## Setup: 
+
+In the Bolt Backend, navigate to Maintenance -> Extensions. 
+Locate 'FB Likes Button Widget' and click the 'configuration' button.
+Enter your Facebook page URL in the config file.
+
+For more information: [Facebook Like Button](https://developers.facebook.com/docs/plugins/like-button).
+
+Lastly enter the following code to your frontend template
+
+``` 
+{{ widgets('footer') }}
+```
 
 
+###Changelog
 
-####Changelog
-
-##### 0.1.0
+#### 0.1.1
 
 * initial files

@@ -25,6 +25,10 @@ Lastly enter the following code to your frontend template
 
 ###Changelog
 
+#### 1.0.0
+
+* released
+
 #### 0.1.1
 
 * initial files

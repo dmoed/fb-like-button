@@ -2,7 +2,6 @@
 
 namespace dmoed\FbLikeButton;
 
-use App\LikesWidget;
 use Bolt\Extension\BaseExtension;
 
 class Extension extends BaseExtension

@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace App;
+namespace dmoed\FbLikeButton;
 
 use Bolt\Widget\BaseWidget;
 use Bolt\Widget\Injector\RequestZone;

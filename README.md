@@ -25,6 +25,10 @@ Lastly enter the following code to your frontend template
 
 ###Changelog
 
+#### 1.0.1
+
+* fixed namespace errors
+
 #### 1.0.0
 
 * released
